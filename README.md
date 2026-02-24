@@ -4,9 +4,9 @@ This repository demonstrates structured problem-solving using conditional logic.
 
 Projects Included
 1. Compare Two Numbers
-2. 
-3.
-4. 
+2. Number Classifier
+3. Discount Engine
+4. Role-Based Access Control
 
 Tools Used
 - Python
