@@ -6,7 +6,6 @@ Projects Included
 1. Compare Two Numbers
 2. Number Classifier
 3. Discount Engine/ systems
-4. Role-Based Access Control
 
 Tools Used
 - Python
